@@ -18,7 +18,7 @@ public class Problema5 {
     public static void main(String[] args) {
         Scanner teclado=new Scanner(System.in);
         int cantpreg,pregbue,porcent;
-        System.out.print("Ingrese la cantidad de preguntas:");
+        System.out.print("Ingrese la cantidad de preguntas por favor:");
         cantpreg=teclado.nextInt();
         System.out.print("Ingrese la cantidad de preguntas buenas:");
         pregbue=teclado.nextInt();
